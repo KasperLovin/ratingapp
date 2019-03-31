@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rating App</string>
+    <string name="button_submit_your_rateing">Submit your rateing</string>
+    <string name="text_subject_relavans">Subject relavans</string>
+    <string name="teacher_overall_performance">Teacher overall performance</string>
+    <string name="teacher_preparation">Teacher preparation</string>
+    <string name="amount_of_feedback">Amount of feedback</string>
+    <string name="how_good_their_examples_are">How good their examples are</string>
+    <string name="job_opportunities">Job opportunities</string>
+    <string name="enter_mail">Please enter your KEA-mail</string>
+    <string name="mail">Enter KEA-mail</string>
+    <string name="button_send_result">Send result</string>
+    <string name="text_rate_a_course">Rate a course</string>
+    <string name="button_language">Change language</string>
+</resources>
